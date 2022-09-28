@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAMA,OAASC,EAAE,UACXC,OAASD,EAAE,UAAUE,IAAI,GAE/BH,OAAOI,GAAG,SAAS,KACjBF,OAAOG","sources":["main.js"],"sourcesContent":["const $mouth = $('.mouth');\nconst $sound = $('#sound').get(0);\n\n$mouth.on('click', () => {\n  $sound.play();\n})\n"],"names":["$mouth","$","$sound","get","on","play"],"version":3,"file":"index.74a7c584.js.map"}
